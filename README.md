@@ -14,5 +14,5 @@
 
 <div>
   <img src="ReadmeImages/ss5.png" width= "300">
-  <img src="ReadmeImages/ss5.png" width= "300">
+  <img src="ReadmeImages/ss6.png" width= "300">
 <div>
